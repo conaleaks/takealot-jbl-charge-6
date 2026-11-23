@@ -1,0 +1,17 @@
+{
+  "name": "takealot-jbl-charge-6",
+  "version": "1.0.0",
+  "description": "Takealot South Africa - JBL Charge 6 Portable Waterproof Bluetooth Speaker Store",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "takealot",
+    "washing-machine",
+    "samsung",
+    "ecommerce"
+  ],
+  "author": "Takealot Online",
+  "license": "ISC"
+}
